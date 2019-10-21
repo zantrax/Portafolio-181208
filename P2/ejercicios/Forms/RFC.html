@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RFC</title>
+
+<script type="text/javascript">
+	
+function RFC() {
+   var nom = document.forms["myForm"]["firstname"].value;
+  var ap = document.forms["myForm"]["AP"].value;
+  var am =document.forms["myForm"]["AM"].value;
+  var year =document.forms["myForm"]["year"].value;
+  var mes =document.forms["myForm"]["mes"].value;
+  var dia =document.forms["myForm"]["dia"].value;
+  var genero =document.forms["myForm"]["select"].value;
+  var vocal1;
+
+  for(var i=0;i<ap.length;i++)
+  {
+    if(ap[i]=='A' || ap[i]=='E' || ap[i]=='I' || ap[i]=='O' || ap[i]=='U' || ap[i]=='a' || ap[i]=='e' || ap[i]=='i' || ap[i]=='o' || ap[i]=='u')
+    {
+      vocal1=ap[i];
+      break;
+    }
+  }
+
+ var RFC=ap[0]+ap[i]+am[0]+nom[0]+year+mes+dia;
+
+ alert("TU RFC ES: "+RFC);
+
+
+}
+
+</script>
+
+</head>
+<body>
+<h2>FORMULARIO</h2><br>
+<form name="myForm" onsubmit="return RFC()" method="post">
+  Nombre:<br>
+  <input type="text" name="firstname"><br>
+  Apeido Materno :<br>
+  <input type="text" name="AM"><br>
+   Apeido Paterno :<br>
+  <input type="text" name="AP"><br><br>
+  Fecha de nacimiento :<br>
+  año:<br>
+  <input type="text" name="year"><br>
+  mes:<br>
+  <input type="text" name="mes"  placeholder="Formato de 2 digitos"><br>
+  dia:<br>
+  <input type="text" name="dia" placeholder="Formato de 2 digitos"><br>
+
+Genero:<br>
+<select name="select">
+  <option value="M">masculino</option>
+  <option value="F">femenino</option>
+  <option value="O">otro</option>
+  
+</select><br>
+<input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>

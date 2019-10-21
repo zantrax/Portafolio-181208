@@ -1,0 +1,39 @@
+Alvarado, Angel David	417	527	384
+Chequer, Emiliano	619	509	241
+Cortés, José Carim	260	611	106
+Cuevas, Jorge Miguel	646	351	468
+Domínguez, Isaí Adriel	850	143	619
+Espinoza, David	818	447	981
+Galván, Brayan Adrian	700	758	281
+Gómez, Edgar Iván	272	247	119
+Hernández, Carlos Othoniel	331	966	368
+Herrera, Juan Humberto	621	131	651
+Jiménez, Víctor Hugo	169	724	583
+Juárez, Efrén David	105	576	607
+López, Emmanuel	748	333	271
+López, Juana	858	549	452
+Loredo, Benjamín	713	202	426
+Lucio, Jessica Fernanda	217	376	200
+Marquez, Tatiana	815	268	960
+Martínez, Daniel Alejandro	455	100	365
+Martínez, Jerónimo Marcelo	134	597	637
+Martínez, Jesús	931	780	895
+Martínez, Karla Valeria	566	749	439
+Matadamas, Jorge Alberto	900	158	303
+Méndez, Oscar Andrés	412	537	255
+Montante, Blas	408	902	845
+Morales, Josué Alejandro	356	381	765
+Moreno, Cristian David	167	894	376
+Muñoz, Mateo	381	882	279
+Rodríguez, Alejandro	931	528	309
+Rodríguez, Carlos Alberto	599	221	178
+Rodríguez, Julieta	426	618	586
+Rosales, Emmanuel	857	133	638
+Sánchez, Víctor Miguel	408	307	749
+Saucedo, Dharma Farina	109	223	391
+Serratos, Isaac Gamaliel	112	321	712
+Silva, Osvaldo Sebastián	633	413	624
+Vázquez, Uriel	450	992	316
+Vélez, Miriam Saray	778	231	984
+Villalobos, Luis Fernando	631	449	957
+Zárate, José Guadalupe	319	802	555
